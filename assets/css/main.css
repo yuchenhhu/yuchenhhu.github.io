@@ -29,11 +29,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-p.availability {
-  margin-top: 0; /* Adjust the top margin */
-  margin-bottom: 10px; /* Adjust the bottom margin */
-}
-
 body {
 	line-height: 1;
 }
